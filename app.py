@@ -63,7 +63,7 @@ st.subheader("Szakmai képességek")
 st.write(
     """
 - 👩‍💻 Programozás: Python, HTML, C#
-- 🗄️ Adatkezelés: Postgres, MongoDB, MySQL
+- 🗄️ Adatkezelés: MongoDB, MySQL
 """
 )
 
