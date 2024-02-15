@@ -63,18 +63,18 @@ st.subheader("Szakmai képességek")
 st.write(
     """
 - 👩‍💻 Programozás: Python, HTML, C#
-- 🗄️ Adatkezelés: MongoDB, MySQL
+- 🗄️ Adatkezelés: MySQL
 """
 )
 
 
 # --- WORK HISTORY ---
 st.write('\n')
-st.subheader("Munka előzmények")
+st.subheader("👷‍♂️", "**Munka előzmények**")
 st.write("---")
 
 #
-st.write("🚧", "**Árufeltöltő**")
+st.write("Árufeltöltő")
 st.write("[ 17/06/2022 – 30/08/2022 ]")
 st.write(
     """
@@ -86,16 +86,16 @@ st.write(
 
 # --- School ---
 st.write('\n')
-st.subheader("Oktatás és képzés")
+st.subheader("📚", "**Oktatás és képzés**")
 st.write("---")
 
-st.write("🚧", "**Érettségi**")
-st.write("BKSZC Weiss Manfréd Technikum, Szakképző Iskola és Kollégium [ 01/09/2021 – Jelenlegi ] ")
+st.write("Érettségi")
+st.write("BKSZC Weiss Manfréd Technikum, Szakképző Iskola és Kollégium [ Jelenlegi ] ")
 
 st.write('\n')
-st.subheader("Nyelvtudás")
+st.subheader("🌍", "**Nyelvtudás**")
 st.write("---")
 
-st.write("🚧", "**Anyanyelv: Magyar**")
+st.write("Anyanyelv: Magyar")
 st.write("További nyelvek: Angol")
-st.write("Szintek: A1 és A2: Alapszintű nyelvhasználó; B1 és B2: Önálló nyelvhasználó; C1 és C2: Mesterfokú nyelvhasználó")
+st.write("Szint: A1 és A2: Alapszintű nyelvhasználó")
